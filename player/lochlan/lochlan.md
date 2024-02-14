@@ -1,11 +1,14 @@
+
 <h1 align="center">lochlan's skins.</h1>
 
+<p align="center">
+<img src="https://i.imgur.com/xszmeqR.png">
 
-# [vax clack](https://github.com/varkely/skinhub/raw/main/player/lochlan/vax_clack.osk)
-<img src="https://i.imgur.com/qs7EPmU.png">
+# [malis](https://github.com/varkely/skinhub/raw/main/player/lochlan/malisz_azerino_editnov.osk)
+<img src="https://i.imgur.com/2CIX7ac.png">
 
-# [rafis clack](https://github.com/varkely/skinhub/raw/main/player/lochlan/rafis_clack.osk)
-<img src="https://i.imgur.com/NhgbHvx.png">
+# [furina dt](https://github.com/varkely/skinhub/raw/main/player/lochlan/furina_dt.osk)
+<img src="https://i.imgur.com/1gc7HRH.png">
 
 <details>
 <summary>old skins.</summary>
