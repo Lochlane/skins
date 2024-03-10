@@ -4,6 +4,4 @@
 <p align="center">
     <a href="universal/universal.md">universal skins</a><br>
     <a href="player/player.md">player skins</a><hr>
-
-
 <p align="center">if any links are broken or you'd like your own page on the skin hub, please contact me via discord (@lochlan.)</p>
